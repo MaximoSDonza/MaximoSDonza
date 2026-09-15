@@ -2,10 +2,11 @@
 
 # Máximo Sebastián Donza
 ![Status](https://img.shields.io/badge/Status-Busy-red?style=flat-square&logo=github)
-![Spanish](https://img.shields.io/badge/Español-Native-74ACDF?style=flat-square)
+![Spanish](https://img.shields.io/badge/Spanish-Native-74ACDF?style=flat-square)
 ![English](https://img.shields.io/badge/English-Intermediate-00247D?style=flat-square)
 
 I am a Systems Information student in Argentina, passionate about programming and tech innovation. I love learning new tools and building productive, creative, and efficient software solutions. Currently, I am balancing my academic journey with work, focusing on applying my skills to real-world projects and continuously expanding my developer toolkit.
+
 <br>
 
 ## 🧰 Tech Stack
